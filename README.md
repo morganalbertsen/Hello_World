@@ -10,7 +10,7 @@ Hello_World
 A sample repository to practice using GitHub and get more comfortable with it.
 
 # ***How to Run Program***
-Used to exaplin how one would run the program
+Used to explain how one would run the program
 
 # ***Files Used***
 None at this time, but important to include for future codes.
