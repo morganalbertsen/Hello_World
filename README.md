@@ -7,10 +7,10 @@ My name is Morgan Albertsen. I am currently a junior at the University of Iowa a
 Hello_World
 
 # ***Description***
-
 A sample repository to practice using GitHub and get more comfortable with it.
 
 # ***How to Run Program***
+Used to exaplin how one would run the program
 
 # ***Files Used***
 None at this time, but important to include for future codes.
